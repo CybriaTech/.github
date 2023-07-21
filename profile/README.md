@@ -16,4 +16,4 @@ Contact CybriaTech's <a href="mailto:timmytamle569@gmail.com">Email</a>
 
 # Socials
 
-[![Join us on Discord](https://invidget.switchblade.xyz/fzrmxgu2NR?theme=light)](https://discord.gg/D5ctHaHV)
+<a href="https://discord.gg/D5ctHaHV">Join Us On Discord!</a>
