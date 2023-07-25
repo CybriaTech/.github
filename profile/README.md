@@ -10,6 +10,26 @@ We hope To Get Bigger And Overpower Companies And Organizations That Make The Th
 
 It Is Best For Anyone Part Or Affiliated To CybriaTech's Names To Be Redacted For Security Purposes, We Do Not Want Anyone To Get In Trouble Just by Being Part Of The Group Or Web-Filtering Companies Going Against Us.
 
+# Our Projects
+
+<details>
+<summary>Our Projects</summary>
+
+  ## Finished
+  - <a href="https://github.com/CybriaTech/CybriaTTS">CybriaTTS</a>
+  - <a href="https://github.com/CybriaTech/CybriaBookmarklets">CybriaBookmarklets</a>
+
+  ## Upcoming
+  - CybriaTech OS
+  - Gamma Proxy
+
+  ## Unfinished
+  - <a href="https://github.com/CybriaTech/CybriaTV">CybriaTV</a>
+  - <a href="https://github.com/CybriaTech/Antimatter">Antimatter Proxy</a>
+  - <a href="https://github.com/CybriaTech/CybriaGPT-Version-1">CybriaGPT Version 1</a>
+  - <a href="https://github.com/CybriaTech/CybriaGames">CybriaGames</a>
+</details>
+
 # Contact Us
 
 Contact CybriaTech's <a href="mailto:timmytamle569@gmail.com">Email</a>
