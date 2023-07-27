@@ -36,4 +36,4 @@ Contact CybriaTech's <a href="mailto:timmytamle569@gmail.com">Email</a>
 
 # Socials
 
-<a href="https://discord.gg/D5ctHaHV"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
+<a href="https://discord.gg/suG4ehKwPb"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
