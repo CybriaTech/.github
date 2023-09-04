@@ -4,7 +4,7 @@
 </kbd>
 </p>
 
-<h1 align="center">The Labay Media</h1>
+<h1 align="center">CybriaTech</h1>
 
 We Are A Group Of Middle Schoolers From <a href="https://www.cfisd.net/Labay">Labay Middle School</a> Dedicated To Making Websites For The Sole Purpose Of Ending Internet Cencorship And Allowing People To Access The Blocked.
 
