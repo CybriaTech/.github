@@ -24,6 +24,7 @@ It Is Best For Anyone Part Or Affiliated To CybriaTech's Names To Be Redacted Fo
   ## Finished
   - <a href="https://github.com/CybriaTech/CybriaTTS">CybriaTTS</a>
   - <a href="https://github.com/CybriaTech/CybriaBookmarklets">CybriaBookmarklets</a>
+  - <a href="https://github.com/CybriaTech/CybriaGames">CybriaGames</a>
 
   ## Upcoming
   - CybriaTech OS
@@ -32,8 +33,7 @@ It Is Best For Anyone Part Or Affiliated To CybriaTech's Names To Be Redacted Fo
   ## Unfinished
   - <a href="https://github.com/CybriaTech/CybriaTV">CybriaTV</a>
   - <a href="https://github.com/CybriaTech/Antimatter">Antimatter Proxy</a>
-  - <a href="https://github.com/CybriaTech/CybriaGPT-Version-1">CybriaGPT Version 1</a>
-  - <a href="https://github.com/CybriaTech/CybriaGames">CybriaGames</a>
+  - <a href="https://github.com/CybriaTech/CybriaGPT-Version-1">CybriaGPT Version 1</a> 
 </details>
 
 # Contact Us
