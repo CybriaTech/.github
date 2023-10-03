@@ -23,7 +23,7 @@ It Is Best For Anyone Part Or Affiliated To CybriaTech's Names To Be Redacted Fo
 
   ## Finished
   - <a href="https://github.com/CybriaTech/CybriaTTS">CybriaTTS</a>
-  - <a href="https://github.com/CybriaTech/CybriaBookmarklets">CybriaBookmarklets</a>
+  - <a href="https://github.com/CybriaTech/CybriaSoundBoards">CybriaSoundBoards</a>
   - <a href="https://github.com/CybriaTech/CybriaGames">CybriaGames</a>
 
   ## Upcoming
