@@ -6,7 +6,7 @@
 
 <h1 align="center">CybriaTech</h1>
 
-We Are A Group Of Middle Schoolers From <a href="https://www.cfisd.net/Labay">Labay Middle School</a> Dedicated To Making Websites For The Sole Purpose Of Ending Internet Cencorship And Allowing People To Access The Blocked.
+We Are A Group Of Middle Schoolers Dedicated To Making Websites For The Sole Purpose Of Ending Internet Cencorship And Allowing People To Access The Blocked.
 
 # Our Goal
 
@@ -15,26 +15,6 @@ We hope To Get Bigger And Overpower Companies And Organizations That Make The Th
 # Who Are We?
 
 It Is Best For Anyone Part Or Affiliated To CybriaTech's Names To Be Redacted For Security Purposes, We Do Not Want Anyone To Get In Trouble Just by Being Part Of The Group Or Web-Filtering Companies Going Against Us.
-
-# Our Projects
-
-<details>
-<summary>Our Projects</summary>
-
-  ## Finished
-  - <a href="https://github.com/CybriaTech/CybriaTTS">CybriaTTS</a>
-  - <a href="https://github.com/CybriaTech/CybriaSoundBoards">CybriaSoundBoards</a>
-  - <a href="https://github.com/CybriaTech/CybriaGames">CybriaGames</a>
-
-  ## Upcoming
-  - CybriaTech OS
-  - Gamma Proxy
-
-  ## Unfinished
-  - <a href="https://github.com/CybriaTech/CybriaTV">CybriaTV</a>
-  - <a href="https://github.com/CybriaTech/Antimatter">Antimatter Proxy</a>
-  - <a href="https://github.com/CybriaTech/CybriaGPT-Version-1">CybriaGPT Version 1</a> 
-</details>
 
 # Contact Us
 
