@@ -16,10 +16,6 @@ We hope To Get Bigger And Overpower Companies And Organizations That Make The Th
 
 It Is Best For Anyone Part Or Affiliated To CybriaTech's Names To Be Redacted For Security Purposes, We Do Not Want Anyone To Get In Trouble Just by Being Part Of The Group Or Web-Filtering Companies Going Against Us.
 
-# Contact Us
-
-Contact CybriaTech's <a href="mailto:timmytamle569@gmail.com">Email</a>
-
 # Socials
 
 <a href="https://discord.gg/e2UXEwjcsg"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
