@@ -12,7 +12,7 @@ Imperium Inc is a software development group focusing on ending and evading inte
 
 ### Games: https://cybriagames.pages.dev, https://opium-games.pages.dev
 
-### Now.GG: https://cygg.mybooty165.repl.co, https://ngg-imperiumgg.mybooty165.repl.co/, https://nowgg-imperiumgg.mybooty165.repl.co/
+### Now.GG: https://cygg.mybooty165.repl.co
 
 # Socials
 
