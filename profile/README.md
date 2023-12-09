@@ -1,22 +1,30 @@
 <p align="center">
-<kbd>
-<img width="150px" src="/img/cybria tech.png">
-</kbd>
+  <kbd>
+    <img width="150px" src="/img/cybria-tech.png">
+  </kbd>
 </p>
 
 <h1 align="center">CybriaTech</h1>
 
-We Are A Group Of Middle Schoolers Dedicated To Making Websites For The Sole Purpose Of Ending Internet Cencorship And Allowing People To Access The Blocked.
+We are a group of middle schoolers dedicated to making websites for the sole purpose of ending internet censorship and allowing people to access blocked content.
 
-# Our Goal
+## Why?
 
-We hope To Get Bigger And Overpower Companies And Organizations That Make The Things We Go Against, Including <a href="https://www.contentkeeper.com/">ContentKeeper</a>, <a href="https://www.securly.com/">Securly</a>, <a href="https://www.dyknow.com/">Dyknow</a>, and  School District Firewalls. We Hope To End All Cencorship As We Do Deserve Them.
+Blocking content like game websites or even YouTube makes it no fun, so the motivation is lower if we don't have something to be entertained with. Boredness is our enemy.
 
-# Who Are We?
+## Our Goal
 
-It Is Best For Anyone Part Or Affiliated To CybriaTech's Names To Be Redacted For Security Purposes, We Do Not Want Anyone To Get In Trouble Just by Being Part Of The Group Or Web-Filtering Companies Going Against Us.
+We hope to grow and counter companies and organizations that enforce the restrictions we oppose, including <a href="https://www.contentkeeper.com/">ContentKeeper</a>, <a href="https://www.securly.com/">Securly</a>, <a href="https://www.dyknow.com/">Dyknow</a>, and school district firewalls. Our aim is to eliminate all censorship that restricts free access to the web.
 
-# Socials
+## Who Are We?
 
-<a href="https://discord.gg/e2UXEwjcsg"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
-<a href="https://twitter.com/cybriatech_"><img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><img></a>
+For security reasons, it's crucial to not release any information associated with CybriaTech. We aim to protect everyone involved from potential trouble, whether they are part of our group or affiliated with web-filtering companies opposing us.
+
+## Socials
+
+<a href="https://discord.gg/e2UXEwjcsg">
+  <img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="https://twitter.com/cybriatech_">
+  <img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
