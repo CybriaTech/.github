@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-    <img width="150px" src="/img/cybria-tech.png">
+    <img width="150px" src="https://avatars.githubusercontent.com/u/136360601">
   </kbd>
 </p>
 
