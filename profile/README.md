@@ -40,6 +40,19 @@ For security reasons, it's crucial to not release any information associated wit
   ### CybriaTech won't be responsible for any trouble caused by other people if the School found our sites.
 </details>
 
+## Projects
+
+<details>
+  <summary>Our Official Projects</summary>
+  - CybriaGames | Sc0tt & X-88
+  - Opium | X-88
+  - CybriaHB | X-88
+  - CybriaGG | X-88
+  - CybriaForceNOW | X-88
+  - CybriaTTS V1 | X-88
+  - Imperium | X-88
+</details>
+
 ## Socials
 
 <a href="https://discord.gg/e2UXEwjcsg">
