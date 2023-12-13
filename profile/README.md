@@ -52,6 +52,8 @@ For security reasons, it's crucial to not release any information associated wit
   - CybriaForceNOW | X-88
   - CybriaTTS V1 | X-88
   - Imperium | X-88
+  - Deceptium | X-88
+  - Singularity | X-88
   </pre>
 </details>
 
