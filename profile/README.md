@@ -44,6 +44,7 @@ For security reasons, it's crucial to not release any information associated wit
 
 <details>
   <summary>Our Official Projects</summary>
+  <pre>
   - CybriaGames | Sc0tt & X-88
   - Opium | X-88
   - CybriaHB | X-88
@@ -51,6 +52,7 @@ For security reasons, it's crucial to not release any information associated wit
   - CybriaForceNOW | X-88
   - CybriaTTS V1 | X-88
   - Imperium | X-88
+  </pre>
 </details>
 
 ## Socials
