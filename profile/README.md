@@ -20,6 +20,26 @@ We hope to grow and counter companies and organizations that enforce the restric
 
 For security reasons, it's crucial to not release any information associated with CybriaTech. We aim to protect everyone involved from potential trouble, whether they are part of our group or affiliated with web-filtering companies opposing us.
 
+## Q&A
+
+<details>
+  <summary>What if our sites are blocked?</summary>
+
+  ### Load them in a proxy or use another mirrored link
+</details>
+
+<details>
+  <summary>How do i use bookmarklets?</summary>
+
+  ### Go to Deceptium V1 and click `tut.md`, it shows how to use Bookmarklets
+</details>
+
+<details>
+  <summary>What if the School found these sites?</summary>
+
+  ### CybriaTech won't be responsible for any trouble caused by other people if the School found our sites.
+</details>
+
 ## Socials
 
 <a href="https://discord.gg/e2UXEwjcsg">
