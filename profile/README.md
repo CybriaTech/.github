@@ -45,15 +45,11 @@ For security reasons, it's crucial to not release any information associated wit
 <details>
   <summary>Our Official Projects</summary>
   <pre>
-  - CybriaGames | Sc0tt & X-88
+  - CybriaGames (Now Opium) | Sc0tt & X-88
   - Opium | X-88
   - CybriaHB | X-88
   - CybriaGG | X-88
-  - CybriaForceNOW | X-88
-  - CybriaTTS V1 | X-88
-  - Imperium | X-88
   - Deceptium | X-88
-  - Singularity | X-88
   </pre>
 </details>
 
