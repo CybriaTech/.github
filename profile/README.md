@@ -5,6 +5,8 @@
 </p>
 
 <h1 align="center">CybriaTech</h1>
+<h2 align="center">The one and only organization to include Everything.</h2>
+
 
 We are a group of middle schoolers dedicated to making websites for the sole purpose of ending internet censorship and allowing people to access blocked content.
 
@@ -18,14 +20,14 @@ We hope to grow and counter companies and organizations that enforce the restric
 
 ## Who Are We?
 
-For security reasons, it's crucial to not release any information associated with CybriaTech. We aim to protect everyone involved from potential trouble, whether they are part of our group or affiliated with web-filtering companies opposing us.
+For security reasons, it's crucial to not release any personal information associated with CybriaTech. We aim to protect everyone involved from potential trouble, whether they are part of our group or affiliated with web-filtering companies opposing us.
 
 ## Q&A
 
 <details>
-  <summary>What if our sites are blocked?</summary>
+  <summary>What if any of the websites are blocked?</summary>
 
-  ### Load them in a proxy or use another mirrored link
+  ### Load them in a proxy, use a mirrored link to find an unblocked one, or just email us at cybriatech@onmail.com
 </details>
 
 <details>
