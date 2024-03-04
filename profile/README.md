@@ -8,19 +8,19 @@
 <h2 align="center">The one and only organization to include Everything.</h2>
 
 
-We are a group of middle schoolers dedicated to making websites for the sole purpose of ending internet censorship and allowing people to access blocked content.
+We are a small team of programmers dedicated to fighting against <a href="https://www.fcc.gov/consumers/guides/childrens-internet-protection-act">CIPA</a> for the euthanization of internet censorship for students and employees with web filters.
 
 ## Why?
 
-Blocking content like game websites or even YouTube makes it no fun, so the motivation is lower if we don't have something to be entertained with. Boredness is our enemy.
+Laws like <a href="https://www.fcc.gov/consumers/guides/childrens-internet-protection-act">CIPA</a> are too harsh for us, we believe that our rights and freedom as children should also be applied to the internet too, even if it takes precious resources, time money and people.
 
 ## Our Goal
 
-We hope to grow and counter companies and organizations that enforce the restrictions we oppose, including <a href="https://www.contentkeeper.com/">ContentKeeper</a>, <a href="https://www.securly.com/">Securly</a>, <a href="https://www.dyknow.com/">Dyknow</a>, and school district firewalls. Our aim is to eliminate all censorship that restricts free access to the web.
+We hope to grow and crush such tyrannical laws like CIPA and web filtering companies including <a href="https://www.imperosoftware.com/us/">Impero Software</a> and unnecessary applications . Our aim is to eliminate all censorship that restricts free access to the web.
 
 ## Who Are We?
 
-For security reasons, it's crucial to not release any personal information associated with CybriaTech. We aim to protect everyone involved from potential trouble, whether they are part of our group or affiliated with web-filtering companies opposing us.
+For security reasons, it's crucial to not release any personal information associated with CybriaTech. We aim to protect everyone involved from potential trouble, whether they are part of our group or affiliated with web-filtering companies opposing us and our school district finding out who we are.
 
 ## Q&A
 
@@ -28,12 +28,6 @@ For security reasons, it's crucial to not release any personal information assoc
   <summary>What if any of the websites are blocked?</summary>
 
   ### Load them in a proxy, use a mirrored link to find an unblocked one, or just email us at cybriatech@onmail.com
-</details>
-
-<details>
-  <summary>How do i use bookmarklets?</summary>
-
-  ### Go to Deceptium V1 and click `tut.md`, it shows how to use Bookmarklets
 </details>
 
 <details>
@@ -51,7 +45,8 @@ For security reasons, it's crucial to not release any personal information assoc
   - Opium | X-88
   - CybriaHB | X-88
   - CybriaGG | X-88
-  - Deceptium | X-88
+  - Deceptium Bookmarklet | X-88
+  - CEASE | X-88
   </pre>
 </details>
 
