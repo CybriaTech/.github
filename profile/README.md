@@ -45,8 +45,7 @@ For security reasons, it's crucial to not release any personal information assoc
   - Opium | X-88
   - CybriaHB | X-88
   - CybriaGG | X-88
-  - Deceptium Bookmarklet | X-88
-  - CEASE | X-88
+  - Deceptium Official Website | X-88
   </pre>
 </details>
 
