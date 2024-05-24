@@ -1,10 +1,10 @@
 <p align="center">
   <kbd>
-    <img width="150px" src="https://avatars.githubusercontent.com/u/136360601">
+    <img width="150px" src="img/imperium.jpg">
   </kbd>
 </p>
 
-<h1 align="center">CybriaTech</h1>
+<h1 align="center">Imperium Inc.</h1>
 <h2 align="center">The one and only organization to include Everything.</h2>
 
 
@@ -20,20 +20,20 @@ We hope to grow and crush such tyrannical laws like CIPA and web filtering compa
 
 ## Who Are We?
 
-For security reasons, it's crucial to not release any personal information associated with CybriaTech. We aim to protect everyone involved from potential trouble, whether they are part of our group or affiliated with web-filtering companies opposing us and our school district finding out who we are.
+For security reasons, it's crucial to not release any personal information associated with Imperium Inc. We aim to protect everyone involved from potential trouble, whether they are part of our group or affiliated with web-filtering companies opposing us and our school district finding out who we are.
 
 ## Q&A
 
 <details>
   <summary>What if any of the websites are blocked?</summary>
 
-  ### Load them in a proxy, use a mirrored link to find an unblocked one, or just email us at cybriatech@onmail.com
+  ### Load them in a proxy, use a mirrored link to find an unblocked one, or just email us at Imperium Inc.@onmail.com
 </details>
 
 <details>
   <summary>What if the School found these sites?</summary>
 
-  ### CybriaTech won't be responsible for any trouble caused by other people if the School found our sites.
+  ### Imperium Inc. won't be responsible for any trouble caused by other people if the School found our sites.
 </details>
 
 ## Projects
@@ -41,7 +41,7 @@ For security reasons, it's crucial to not release any personal information assoc
 <details>
   <summary>Our Official Projects</summary>
   <pre>
-  - CybriaGames (Now Opium) | Sc0tt & X-88
+  - Opium Games | Sc0tt & X-88
   - Opium | X-88
   - CybriaHB | X-88
   - CybriaGG | X-88
@@ -54,6 +54,6 @@ For security reasons, it's crucial to not release any personal information assoc
 <a href="https://discord.gg/e2UXEwjcsg">
   <img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a href="https://twitter.com/cybriatech_">
+<a href="https://twitter.com/Imperium Inc._">
   <img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
