@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-    <img width="150px" src="img/imperium.jpg">
+    <img width="150px" src="img/cybria.png">
   </kbd>
 </p>
 
