@@ -45,13 +45,13 @@ For security reasons, it's crucial to not release any personal information assoc
   - Opium | X-88
   - CybriaHB | X-88
   - CybriaGG | X-88
-  - Deceptium Official Website | X-88
+  - DOLUS | X-88
   </pre>
 </details>
 
 ## Socials
 
-<a href="https://discord.gg/e2UXEwjcsg">
+<a href="https://discord.gg/zhsmmNNtJT">
   <img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 <a href="https://twitter.com/CybriaTech_">
